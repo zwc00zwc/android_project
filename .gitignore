@@ -8,4 +8,11 @@
 /build
 /captures
 .externalNativeBuild
-/.idea
+/*.bat
+/gradlew
+/gradle/wrapper/*.properties
+/.idea/caches/*.ser
+/.idea/codeStyles/*.xml
+/.idea/*.xml
+/app/*.pro
+/gradle/wrapper/*.jar
